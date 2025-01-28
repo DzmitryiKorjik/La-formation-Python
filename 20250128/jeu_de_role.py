@@ -37,7 +37,7 @@ while True:
                 nombre_vie_aleatoire = random.randint(15, 50)
                 potion_max -= 1
                 utilisateur += nombre_vie_aleatoire
-                print(f"❤️ Vous avez utilisé une potion, vous avez maintenant {potion_max - 1} potions.")
+                print(f"❤️ Vous avez utilisé une potion, vous avez maintenant {potion_max} potions.")
                 print(f"Vous récupérez ❤️ {nombre_vie_aleatoire} points de vie. Total : {utilisateur}.")
                 attaque_ennemi = random.randint(5, 15)
                 print(f"L'ennemi vous a infligé {attaque_ennemi} points de dégats ⚔️")
