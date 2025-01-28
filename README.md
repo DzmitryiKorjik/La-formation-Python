@@ -4,7 +4,7 @@
 
 **Bienvenue dans mon dépôt dédié à ma formation Python ! 🎉**
 
-En tant que débutant en programmation, je suis actuellement en train de suivre une formation complète sur Python pour apprendre à coder, créer des projets et développer mes compétences dans ce langage polyvalent. Ce dépôt regroupe les exercices, projets et notes que je réalise au fil de mon apprentissage.
+En tant que débutant en programmation, je suis actuellement en train de suivre une formation complète sur Python pour apprendre à coder, créer des projets et développer mes compétences dans ce langage polyvalent. Ce dépôt regroupe les exercices, projets que je réalise au fil de mon apprentissage.
 
 **Ce que je fais dans cette formation :**
 
