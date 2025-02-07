@@ -1,9 +1,12 @@
-"""Docstring de style Google
+def fonction_example(nom, age):
+    """Description de la fonction
 
-Args:
-    param1: un premier paramèter
-    param2: un autre paramètre
-Return: 
-    Description de ce qui est retourné
-"""
+    Args:
+        nom (str): Le nom d'utilisateur
+        age (int): L'age de l'utilisateur
+
+    Returns:
+        list: Liste de nombres
+    """
+    return [1, 2, 3]
 
