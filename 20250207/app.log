@@ -1,0 +1,5 @@
+2025-02-07 08:36:34,236 : DEBUG : La fonction a bien été exécutée
+2025-02-07 08:36:34,236 : INFO : Message d'information général
+2025-02-07 08:36:34,236 : WARNING : Attention !
+2025-02-07 08:36:34,236 : ERROR : Une erreur
+2025-02-07 08:36:34,236 : CRITICAL : Erreur critical
