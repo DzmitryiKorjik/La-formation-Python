@@ -9,13 +9,21 @@ users_data = []
 users = 0
 while users < 100:
     user = {
-        "name": fake.name(),
-        "address": fake.address(),
-        "email": fake.email(),
-        "phone_number": fake.phone_number(),
-        "company": fake.company(),
-        "job": fake.job(),
-        "birthdate": str(fake.date_this_year())
+        "name": fake.unique.name(),
+        "age": fake.random_int(18, 99),
+        "gender": fake.random_element(["male", "female"]),
+        "address": fake.unique.address(),
+        "city": fake.unique.city(),
+        "country": fake.unique.country(),
+        "email": fake.unique.email(),
+        "phone_number": fake.unique.phone_number(),
+        "company": fake.unique.company(),
+        "job": fake.unique.job(),
+        "birthdate": str(fake.date_this_year()),
+        "credit_card": fake.credit_card_number(),
+        "credit_cerd_expire": fake.credit_card_expire(),
+        "credit_card_security_code": fake.credit_card_security_code(),
+        "social_security_number": fake.ssn(),
     }    
 
     users_data.append(user)
