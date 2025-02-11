@@ -8,10 +8,11 @@ c = conn.cursor()
 # Liste des nouveaux utilisateurs à ajouter
 nouveaux_utilisateurs = [
     ('admin', 'password123'),
-    ('user2', 'user2pass'),
-    ('user3', 'user3pass'),
-    ('user4', 'user4pass'),
-    ('user5', 'user5pass')
+    ('Dima', 'user2pass'),
+    ('Ksu', 'user3pass'),
+    ('Maksim', 'user4pass'),
+    ('Pavel', 'user5pass'),
+    ('Rania', 'user6pass')
 ]
 
 # Ajout des utilisateurs dans la table "users"

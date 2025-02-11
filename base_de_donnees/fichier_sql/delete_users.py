@@ -4,8 +4,9 @@ import sqlite3  # Importation du module SQLite
 conn = sqlite3.connect("database.db")
 c = conn.cursor()
 
-# Remove des users
-c.execute("DELETE FROM users WHERE username='admin'")
+# Remove des users - WHERE username='admin'
+c.execute("DELETE FROM users")
+c.execute("DELETE FROM sqlite_sequence")
 
 # Commit les modifications
 conn.commit()
