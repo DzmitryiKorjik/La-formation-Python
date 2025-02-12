@@ -1,0 +1,25 @@
+{
+    "_default": {
+        "1": {
+            "name": "Oly",
+            "score": 50,
+            "roles": [
+                "junior"
+            ]
+        },
+        "2": {
+            "name": "Maks",
+            "score": 45,
+            "roles": [
+                "junior"
+            ]
+        },
+        "3": {
+            "name": "Dina",
+            "score": 100,
+            "roles": [
+                "junior"
+            ]
+        }
+    }
+}
