@@ -1,0 +1,204 @@
+{
+    "_default": {
+        "1": {
+            "first_name": "Michel",
+            "last_name": "Aubry",
+            "email": "mariemallet@example.com",
+            "password": "@9NGtFrk&(",
+            "address": "4, chemin Millet\n42238 Saint In\u00e8sVille",
+            "phone_number": "0381055789"
+        },
+        "2": {
+            "first_name": "Georges",
+            "last_name": "Millet",
+            "email": "delannoyxavier@example.com",
+            "password": "6C9RE(@a@F",
+            "address": "54, rue de Laroche\n73595 Sainte Emmanueldan",
+            "phone_number": "0788329997"
+        },
+        "3": {
+            "first_name": "Charlotte",
+            "last_name": "Royer",
+            "email": "patricia12@example.net",
+            "password": "#1svZAiI+W",
+            "address": "96, chemin de Martin\n90405 Camusboeuf",
+            "phone_number": "0320013845"
+        },
+        "4": {
+            "first_name": "Name: Ad\u00e9la\u00efde contains invalid characters.",
+            "last_name": "Delmas",
+            "email": "gimenezgeorges@example.com",
+            "password": "_C7BJoWpJS",
+            "address": "6, boulevard de Deschamps\n05417 Chevallierboeuf",
+            "phone_number": "Phone number 33366726014 invalid"
+        },
+        "5": {
+            "first_name": "Marthe",
+            "last_name": "Mallet",
+            "email": "cousinjean@example.org",
+            "password": "%1nj6Zc4t3",
+            "address": "avenue de Pruvost\n07170 Guibert",
+            "phone_number": "0277957800"
+        },
+        "6": {
+            "first_name": "Name: No\u00e9mi contains invalid characters.",
+            "last_name": "Lemoine",
+            "email": "mariefischer@example.org",
+            "password": "4@50gFsHpz",
+            "address": "25, avenue Arthur Lejeune\n97494 Sainte Philippine",
+            "phone_number": "Phone number 330258494567 invalid"
+        },
+        "7": {
+            "first_name": "Anastasie",
+            "last_name": "Marty",
+            "email": "pottiercatherine@example.net",
+            "password": "%h^F*!r1e4",
+            "address": "3, rue Robert\n60698 Sainte C\u00e9cile",
+            "phone_number": "0567217698"
+        },
+        "8": {
+            "first_name": "Charles",
+            "last_name": "Courtois",
+            "email": "richarddaniel@example.net",
+            "password": "Q!g2q8Bzjr",
+            "address": "12, rue Voisin\n93694 Sainte Hortense",
+            "phone_number": "0390032518"
+        },
+        "9": {
+            "first_name": "Luc",
+            "last_name": "Robert",
+            "email": "guillotlucy@example.net",
+            "password": ")S@!CCo8h1",
+            "address": "85, chemin Bouchet\n25390 Maurice",
+            "phone_number": "0638893773"
+        },
+        "10": {
+            "first_name": "Audrey",
+            "last_name": "Ruiz",
+            "email": "alice14@example.org",
+            "password": "_#S8U6SdC#",
+            "address": "80, rue de Dijoux\n82491 Sainte H\u00e9l\u00e8ne",
+            "phone_number": "Phone number 33327954006 invalid"
+        },
+        "11": {
+            "first_name": "Gabrielle",
+            "last_name": "Perez",
+            "email": "sguerin@example.net",
+            "password": "W69bhVlF%7",
+            "address": "65, chemin de Mace\n77661 Dupr\u00e9",
+            "phone_number": "0546058133"
+        },
+        "12": {
+            "first_name": "Julie",
+            "last_name": "Poirier",
+            "email": "sophie43@example.com",
+            "password": "rp8bKg4tU@",
+            "address": "23, chemin Matthieu Ramos\n36910 Lebrun",
+            "phone_number": "0222923181"
+        },
+        "13": {
+            "first_name": "Name: \u00c9ric contains invalid characters.",
+            "last_name": "Blanchet",
+            "email": "aimeefleury@example.net",
+            "password": ")0YZihcAGZ",
+            "address": "25, avenue Menard\n75438 Bailly-sur-Mer",
+            "phone_number": "0255282561"
+        },
+        "14": {
+            "first_name": "Danielle",
+            "last_name": "Garcia",
+            "email": "laure14@example.org",
+            "password": "ty+#0iEgza",
+            "address": "5, avenue de Imbert\n52471 Sainte Alix",
+            "phone_number": "0450079087"
+        },
+        "15": {
+            "first_name": "Name: Beno\u00eet contains invalid characters.",
+            "last_name": "Dumas",
+            "email": "hpayet@example.net",
+            "password": "_f58GRYe_n",
+            "address": "rue de Reynaud\n72633 Saint Zacharie",
+            "phone_number": "0684567751"
+        },
+        "16": {
+            "first_name": "Hortense",
+            "last_name": "Chevallier",
+            "email": "probert@example.net",
+            "password": "s5x!g^Wz%4",
+            "address": "rue Marguerite Pinto\n97487 Saint Augustin",
+            "phone_number": "0606765441"
+        },
+        "17": {
+            "first_name": "Thibault",
+            "last_name": "Ferreira",
+            "email": "benoit54@example.org",
+            "password": "DH88UDvz^H",
+            "address": "rue de Seguin\n69120 Saint ArthurVille",
+            "phone_number": "0478402625"
+        },
+        "18": {
+            "first_name": "Roland",
+            "last_name": "Fleury",
+            "email": "catherinebrunet@example.net",
+            "password": "5RfFiAvC_a",
+            "address": "18, chemin de Dijoux\n73184 LouisBourg",
+            "phone_number": "Phone number 33183246388 invalid"
+        },
+        "19": {
+            "first_name": "Monique",
+            "last_name": "Clerc",
+            "email": "uferreira@example.org",
+            "password": "_o@!6MGeHO",
+            "address": "86, avenue de Poirier\n24937 Chartier",
+            "phone_number": "0276864211"
+        },
+        "20": {
+            "first_name": "Name: Ren\u00e9 contains invalid characters.",
+            "last_name": "Picard",
+            "email": "etienneverdier@example.com",
+            "password": "C2mH35Rs#i",
+            "address": "90, chemin Jos\u00e9phine Pineau\n68786 R\u00e9my",
+            "phone_number": "0531642695"
+        },
+        "21": {
+            "first_name": "Name: \u00c9lise contains invalid characters.",
+            "last_name": "Fleury",
+            "email": "virginie10@example.org",
+            "password": "J0sL$Wvt@i",
+            "address": "916, rue de Reynaud\n35649 Benoit-sur-Mer",
+            "phone_number": "Phone number 33586495750 invalid"
+        },
+        "22": {
+            "first_name": "Name: Andr\u00e9e contains invalid characters.",
+            "last_name": "Voisin",
+            "email": "odette19@example.net",
+            "password": "nXA1X0hV&O",
+            "address": "441, rue Yves Diallo\n97219 Lemoinenec",
+            "phone_number": "0246583784"
+        },
+        "23": {
+            "first_name": "Thibaut",
+            "last_name": "Bodin",
+            "email": "barbelouis@example.com",
+            "password": "d9lg*4H$$7",
+            "address": "rue Riou\n41463 Lombard",
+            "phone_number": "0473533297"
+        },
+        "24": {
+            "first_name": "Name: Agn\u00e8s contains invalid characters.",
+            "last_name": "Lebreton",
+            "email": "alixvalette@example.com",
+            "password": "nTddIR8sc)",
+            "address": "682, chemin de Baron\n94264 Lacombe",
+            "phone_number": "0356858042"
+        },
+        "25": {
+            "first_name": "Odette",
+            "last_name": "Gautier",
+            "email": "wolivier@example.com",
+            "password": "J@L8Hp9puK",
+            "address": "avenue de Guillot\n28788 Seguin",
+            "phone_number": "Phone number 330382332358 invalid"
+        }
+    }
+}
