@@ -1,3 +1,8 @@
+import sys
+import os
+
+# Ajoutez le chemin du dossier contenant main.py
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from bank import Account
 import pytest
 
